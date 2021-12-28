@@ -29,7 +29,9 @@ d) haarcascades/haarcascade_frontalface_alt.xml: XML file with pre-trained face 
 
 e) bottleneck_features folder: it contains the bottleneck features used by the models created in the dog_app.ipynb script.
 
-f) README.md
+f) extract_bottleneck_features.py: script that contains the functions to extract the bottleneck features.
+
+g) README.md
 
 
 ## Results Summary <a name="results"></a>
