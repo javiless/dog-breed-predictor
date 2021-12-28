@@ -30,9 +30,9 @@ d) README.md
 
 ## Results Summary <a name="results"></a>
 
-A algorithm that estimate the breed of dogs was created using Convolutional Neural Networks (CNN). Accuracy was the metric used for measuring the sucess of the different CNN developed during the project.
+A algorithm that estimate the breed of dogs was created using Convolutional Neural Networks (CNN). Accuracy was the metric used for measuring the sucess of the different CNNs developed during the project.
 
-Firstly, a CNN architecture was created from scratch, reaching around 4% of accuracy when the solution was tested using a testing dataset. Secondly, it was used tranfer learning by incorporating into the solution a pre-trained ResNet-50 model that allowed us to achieve a test accuracy > 80%, which was high enough to fulfill the target set at the beginning of the project.
+Firstly, a CNN architecture was created from scratch, reaching around 4% of accuracy when the solution was tested using a dog image testing dataset. Secondly, tranfer learning was used by incorporating into the solution a pre-trained ResNet-50 model that allowed to us to achieve a test accuracy > 80%, which was high enough to fulfill the target set at the beginning of the project.
 
 
 ## Execution Instructions<a name="execution"></a>
