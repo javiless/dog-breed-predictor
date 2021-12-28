@@ -25,7 +25,11 @@ b) images folder: it contains the images that are used to run individual tests o
 
 c) saved_models folder: it contains the models that are saved during the python script execution.
 
-d) README.md
+d) haarcascades/haarcascade_frontalface_alt.xml: XML file with pre-trained face detectors provided by OpenCV.
+
+e) bottleneck_features folder: it contains the bottleneck features used by the models created in the dog_app.ipynb script.
+
+f) README.md
 
 
 ## Results Summary <a name="results"></a>
