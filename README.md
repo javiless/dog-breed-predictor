@@ -34,6 +34,8 @@ A algorithm that estimate the breed of dogs was created using Convolutional Neur
 
 Firstly, a CNN architecture was created from scratch, reaching around 4% of accuracy when the solution was tested using a dog image testing dataset. Secondly, tranfer learning was used by incorporating into the solution a pre-trained ResNet-50 model that allowed to us to achieve a test accuracy > 80%, which was high enough to fulfill the target set at the beginning of the project.
 
+Blog post with more detailed information: https://medium.com/@javiles.garcia/whats-my-dog-s-breed-79713d3d4fb4
+
 
 ## Execution Instructions<a name="execution"></a>
 
